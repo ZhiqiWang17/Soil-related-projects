@@ -1,6 +1,6 @@
 # Soil-related-projects
 
-## Heavy mentals in soils in smelter
+## Heavy metals in soils in smelter
 To diagnosis of the area around the selected smelter with a visualization of soil contamination performed in the ArcGIS program.
 
 ## Determine soil pollution in Landfill
